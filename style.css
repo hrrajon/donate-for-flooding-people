@@ -1,0 +1,141 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.first-phase {
+    text-align: center;
+    background-image: url(images/donation13.jpg);
+    background-size: cover;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.first-phase-para {
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700px;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+
+.second-phase {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.flexable-container {
+    display: flex;
+}
+
+.donation-amount {
+    margin-left: 5%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.donation {
+    margin-left: 5%;
+    margin-right: 5%;
+
+    padding: 20px 20px 20px 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px 10px gainsboro;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#input-field {
+    width: 50%;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.donate-button {
+    padding-top: 40px;
+}
+
+.third-phase {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.donation-item {
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+#select-donation {
+    background-color: rgba(255, 68, 0, 0.58);
+    border-radius: 5px solid orangered;
+}
+
+
+#first-box {
+    background-color: rgba(240, 128, 128, 0.265);
+}
+
+#second-box {
+    background-color: rgba(127, 255, 212, 0.434);
+}
+
+#third-box {
+    background-color: rgba(137, 43, 226, 0.338);
+}
+
+.quate {
+    background-image: url(images/donation12.png);
+    background-size: cover;
+    padding-left: 5%;
+    padding-top: 20PX;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.quate p {
+    text-align: right;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.get-my-update {
+    text-align: center;
+}
+
+.subscribe {
+    padding-left: 20%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 50px;
+    background-color: bisque;
+}
+
+#footer-head {
+    color: red;
+}
+
+.footer-section {
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
