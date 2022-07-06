@@ -100,8 +100,9 @@ h1 {
 }
 
 .quate {
-    background-image: url(images/donation12.png);
+    background-image: url(images/donation13.jpg);
     background-size: cover;
+    color: white;
     padding-left: 5%;
     padding-top: 20PX;
     margin-top: 50px;
@@ -110,8 +111,11 @@ h1 {
 
 .quate p {
     text-align: right;
+    color: white;
     font-size: 20px;
     font-weight: 700;
+    padding-right: 10px;
+    padding-bottom: 20px;
 }
 
 .get-my-update {
